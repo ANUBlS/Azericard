@@ -31,7 +31,7 @@ class Index(View,AzeriCard):
     merch_name = None
     merch_url = None
     key = None
-    order = None
+    order = None # order id si mininim 6 reqem olmalidi misal : 000001 : Order id olmadan script run olmur
     email = None
     desc = None
     amount = None
