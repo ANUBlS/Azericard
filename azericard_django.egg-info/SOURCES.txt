@@ -1,0 +1,6 @@
+README.md
+setup.py
+azericard_django.egg-info/PKG-INFO
+azericard_django.egg-info/SOURCES.txt
+azericard_django.egg-info/dependency_links.txt
+azericard_django.egg-info/top_level.txt
