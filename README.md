@@ -40,6 +40,7 @@ class Index(View,AzeriCard):
     
     
     def get(self, request):
+        #self.order = request.GET.get(order) frontdan gotureceyeimiz datalari bu formada qeyd edin
         print(self.terminal)
         return HttpResponse(self.get_data())
 
