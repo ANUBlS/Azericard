@@ -2,7 +2,9 @@ import setuptools
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
-
+REQUIRED = [
+    'requests',
+]
 setuptools.setup(
     name="azericard-django", # Replace with your own username
     version="0.0.1",
