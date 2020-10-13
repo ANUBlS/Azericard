@@ -8,6 +8,12 @@ Library Azerbaijan Python Users Community ucun yazilib
 
 Asagida examplede nece isdeyeceyi eks olunub Ugurlar
 
+yuklemek ucun 
+
+* `pip install azericard-django`
+
+
+
 
 
 ```python
