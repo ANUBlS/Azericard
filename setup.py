@@ -13,6 +13,7 @@ setuptools.setup(
     description="Django ucun standart azericard odenis kitabxanasi",
     long_description=long_description,
     long_description_content_type="text/markdown",
+    install_requires=REQUIRED,
     url="https://github.com/CavidRzayev/Azericard",
     packages=setuptools.find_packages(),
     classifiers=[
